@@ -1,0 +1,208 @@
+{
+  "id": "kalugerovo",
+  "name": "Калугерово",
+  "index": "/area.json",
+  "areas": [
+    {
+      "id": "na-pytq",
+      "name": "На пътя",
+      "index": "/na-pytq/area.json",
+      "areas": null,
+      "routes": [
+        {
+          "id": "cherga",
+          "name": "Черга",
+          "index": "/na-pytq/cherga.json",
+          "images": [
+            "/na-pytq/cherga_0.jpg",
+            "/na-pytq/cherga_1.jpg"
+          ],
+          "difficulty": 85.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "donk",
+          "name": "Donk",
+          "index": "/na-pytq/donk.json",
+          "images": [
+            "/na-pytq/donk_0.jpg"
+          ],
+          "difficulty": 65.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "king-kong",
+          "name": "King Kong",
+          "index": "/na-pytq/king-kong.json",
+          "images": null,
+          "difficulty": 90.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "king",
+          "name": "King",
+          "index": "/na-pytq/king.json",
+          "images": [
+            "/na-pytq/king_0.jpg"
+          ],
+          "difficulty": 100.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "kitenik",
+          "name": "Китеник",
+          "index": "/na-pytq/kitenik.json",
+          "images": [
+            "/na-pytq/kitenik_0.jpg",
+            "/na-pytq/kitenik_1.jpg"
+          ],
+          "difficulty": 95.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "kong",
+          "name": "Kong",
+          "index": "/na-pytq/kong.json",
+          "images": [
+            "/na-pytq/kong_0.jpg",
+            "/na-pytq/kong_1.jpg"
+          ],
+          "difficulty": 75.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "kralski-nevoli",
+          "name": "Кралски неволи",
+          "index": "/na-pytq/kralski-nevoli.json",
+          "images": [
+            "/na-pytq/kralski-nevoli_0.jpg"
+          ],
+          "difficulty": 95.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "kuku",
+          "name": "Куку",
+          "index": "/na-pytq/kuku.json",
+          "images": [
+            "/na-pytq/kuku_0.jpg",
+            "/na-pytq/kuku_1.jpg"
+          ],
+          "difficulty": 75.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "monk",
+          "name": "Monk",
+          "index": "/na-pytq/monk.json",
+          "images": [
+            "/na-pytq/monk_0.jpg"
+          ],
+          "difficulty": 60.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "neocenen-trud",
+          "name": "Неоценен труд",
+          "index": "/na-pytq/neocenen-trud.json",
+          "images": [
+            "/na-pytq/neocenen-trud_0.jpg"
+          ],
+          "difficulty": 75.0,
+          "location": {
+            "Latitude": 42.995985,
+            "Longitude": 23.915023
+          }
+        },
+        {
+          "id": "queen",
+          "name": "Queen",
+          "index": "/na-pytq/queen.json",
+          "images": [
+            "/na-pytq/queen_0.jpg"
+          ],
+          "difficulty": 95.0,
+          "location": {
+            "Latitude": 42.994057,
+            "Longitude": 23.912551
+          }
+        },
+        {
+          "id": "trud-i-tehnika",
+          "name": "Труд и техника",
+          "index": "/na-pytq/trud-i-tehnika.json",
+          "images": [
+            "/na-pytq/trud-i-tehnika_0.jpg"
+          ],
+          "difficulty": 75.0,
+          "location": {
+            "Latitude": 42.995985,
+            "Longitude": 23.915023
+          }
+        },
+        {
+          "id": "trudovak",
+          "name": "Трудовак",
+          "index": "/na-pytq/trudovak.json",
+          "images": [
+            "/na-pytq/trudovak_0.jpg"
+          ],
+          "difficulty": 65.0,
+          "location": {
+            "Latitude": 42.996569,
+            "Longitude": 23.915253
+          }
+        },
+        {
+          "id": "trudovi-voiski",
+          "name": "Трудови войски",
+          "index": "/na-pytq/trudovi-voiski.json",
+          "images": [
+            "/na-pytq/trudovi-voiski_0.jpg"
+          ],
+          "difficulty": 85.0,
+          "location": {
+            "Latitude": 42.995985,
+            "Longitude": 23.915023
+          }
+        }
+      ],
+      "map": "",
+      "images": [],
+      "date": 133509381684474382
+    }
+  ],
+  "routes": null,
+  "map": "/map.mbtiles",
+  "images": [
+    "/index_0.jpg"
+  ],
+  "date": 133509381684474382
+}
